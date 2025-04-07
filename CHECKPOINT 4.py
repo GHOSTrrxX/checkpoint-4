@@ -20,7 +20,7 @@ lista.append("naranja")
 lista[0] ="Limon"
 
 lista.sort()
-tupla = tupla + ("Marron",)
+tupla += ("Marron",)
 
 print("Lista ordenada:", lista)
 print("Tupla Actualizada:", tupla)
